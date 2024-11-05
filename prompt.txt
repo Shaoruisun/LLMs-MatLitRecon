@@ -1,0 +1,71 @@
+Context:
+Fe/TiO2was prepared using an F127-assisted sol-gel process. In a typical preparation, F127 (0.4 mmol) was added to sufficient anhydrous ethanol and the solution was heated gently until the F127 was completely dissolved. Then certain amounts of TBOT and CH3COOH were dissolved in the F127 solution under vigorous stirring for 30 min, giving a transparent yellow solution. Fe(NO3)3·9H2O solution was then added drop-wise to the solution under continuous stirring. The molar ratios of the components in the mixture were TOT:F127: CH3COOH:Fe(NO3)3·9H2O = 1:0.004:0.7:0.14. The mixture was stirred for 2 h and then kept at room temperature for about 3 d to form a gel. The gel was dried in an oven at 110 °C for 12 h, and then calcined in air at 450 °C for 3 h. The obtained sample was denoted by Fe/TiO2(t). The nominal loading of Fe in the catalyst was 10 wt% (Fe/TiO2= 10 wt%, the same below).For comparison, supported Fe/TiO2catalysts were also prepared using wet impregnation and coprecipitation methods. In the impregnation method, anatase TiO2(Hehai Technology Company, China) was impregnated with an appropriate amount of Fe(NO3)3·9H2O solution. After stirring for 30 min, the mixture was dried overnight at 110 °C and then calcined at 450 °C in air for 3 h. In the coprecipitation method, TiOSO4· 2H2O was used as a TiO2precursor. Certain amounts of Fe(NO3)3·9H2O and TiOSO4·2H2O were completely dissolved in deionized water (80 mL). Aqueous NH3was added to the solution under vigorous stirring until it was completely deposited. The obtained precipitate was removed by filtration, washed several times with deionized water, and dried at 110 °C overnight. The catalyst was obtained by calcination at 450 °C in air for 3 h. The Fe/TiO2catalysts prepared by impregnation and coprecipitation were denoted by Fe/TiO2(i) and Fe/TiO2(c), respectively.
+Answers: 
+{
+    "product1": {
+        "product": "Fe/TiO2",
+        "method": "F127-assisted sol-gel",
+        "raw material": "F127",
+        "add": ["F127", "anhydrous ethanol"],
+        "heat": "F127 was completely dissolved",
+        "dissolve": "TBOT and CH3COOH",
+        "stir": {
+            "time": "30min"
+        },
+        "add": "Fe(NO3)3·9H2O",
+        "molar ratios": "TOT:F127:CH3COOH:Fe(NO3)3·9H2O = 1:0.004:0.7:0.14",
+        "stir": {
+            "time": "2h"
+        },
+        "keep": {
+            "temperature": "room temperature",
+            "time": "3d"
+        },
+        "dry": {
+            "temperature": "110 °C",
+            "time": "12 h"
+        },
+        "calcined": {
+            "temperature": "450 °C",
+            "time": "3 h"
+        },
+        "name": "Fe/TiO2(t)",
+        "loading": "10 wt%"
+    },
+    "Product2": {
+        "product": "supported Fe/TiO2catalysts",
+        "method": "impregnation method",
+        "raw material": ["anatase TiO2", "Fe(NO3)3·9H2O"],
+        "stir": {
+            "time": "30min"
+        },
+        "dry": {
+            "temperature": "110 °C"
+        },
+        "calcine": {
+            "temperature": "450 °C",
+            "time": "3 h"
+        },
+        "name": "Fe/TiO2(i)"
+    },
+    "Product3": {
+        "product": "supported Fe/TiO2catalysts",
+        "method": "impregnation method",
+        "raw material": ["Fe(NO3)3·9H2O and TiOSO4·2H2O"],
+        "dissolve": "Fe(NO3)3·9H2O and TiOSO4·2H2O, deionized water",
+        "add": "Aqueous NH3",
+        "stir": "completely deposited",
+        "remove": "precipitate",
+        "filtration": "",
+        "wash": "deionized water",
+        "dry": {
+            "temperature": "110 °C",
+            "time": "overnight"
+        },
+        "calcine": {
+            "temperature": "450 °C",
+            "time": "3 h"
+        },
+        "name": "Fe/TiO2(c)"
+    }
+}
