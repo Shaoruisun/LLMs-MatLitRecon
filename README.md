@@ -31,3 +31,15 @@ Access credentials for your Neo4j database instance
 Output：
 Extracted information (entities, synthesis steps, properties) will be stored in JSON format in the folder of “Extracted information .zip”.
 A knowledge graph (e.g., .（“KG-rels.xlsx”）) can be constructed for downstream analysis.
+
+Citation
+If you use this code or data in your research, please cite:
+article{
+  title={Extracting and Reconstructing Knowledge in Material Science Literature Using Large Language Models},
+  author={Shuyuan Li, Shihao Wei，Chenyu Huang，Yunjiang Zhang，Guizhen Zhang* and Shaorui Sun*},
+  year={2025}
+}
+
+
+For questions or contributions, please open an issue or contact sunsr@bjut.edu.cn
+
